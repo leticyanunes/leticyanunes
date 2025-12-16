@@ -1,7 +1,9 @@
 ##
 Meu nome é Leticya Nunes!  
 🎓 Estudante de Engenharia de Computação na Universidade Candido Mendes  
+
 💻  **Python** , **Banco de Dados (MySQL)**  e **Power BI**
+
 📚 Apaixonada por dados, programação e resolver problemas com tecnologia!
 
 
